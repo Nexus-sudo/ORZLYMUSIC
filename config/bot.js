@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODU5MTA0NjU5OTQ2NzMzNTc5.YNn1kA.nTg6FdFYNtJ1PkxJNrIxZnuPrlI',
-        prefix: 'e!',
-        activity: 'Ernest™ | V.1.0 | Shard 3',
+        token: 'ODk5MDI2MTA4NTY4MjA3NDEw.YWsxTw.-oHc12IuvcB84TGwLMd8zmcHbS4',
+        prefix: '>',
+        activity: 'Orzly Music | V.1.0 | By Orzly | Coded by Zaapsofts',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
